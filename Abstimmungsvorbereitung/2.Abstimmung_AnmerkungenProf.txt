@@ -1,0 +1,15 @@
+Positions-Tracker eher missverständlich.
+
+Kontakt zu Christoph Brückner für MQTT.
+
+Iterative Klassifizierung. Erst grob, dann Matching, dann genauer.
+
+Zeitfenster dynamisch.
+
+https://data.nvision2.eecs.yorku.ca/PIE_dataset/
+
+5GAA - Paper
+
+WiSe 2023/2024: Master DataScience wird kommen
+
+Bachelorseminar: 10min aktueller Stand, Idee, Zielsetzung, Probleme, Forschungsfragen, technischer Hintergrund und Kontext und Methodik, aktuelle Ergebnisse.
