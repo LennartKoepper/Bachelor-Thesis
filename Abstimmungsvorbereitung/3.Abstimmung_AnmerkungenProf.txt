@@ -1,0 +1,11 @@
+Test Flight für Installation der App auf iOS-Geräten
+
+Brückner: 09561 317538, 0176 56886899 + E-Mail mit CC
+CassandraDB Datenbank mit Subscription-Dämon dürfte schon existieren 
+
+Für Relevanz von Relevanz: Paralleles Aufzeichnen mehrerer Geräte in unmittelbarer Nähe
+
+Feature-Request für die App: Sampling-Rate dynamisch zur Geschwindigkeit -> hohe Geschw. hohe Samplingrate und umgekehrt um Rauscheffekte zu vermindern
+
+Bis zum nächsten Treffen: Gliederung und erster Niederschrieb
+
