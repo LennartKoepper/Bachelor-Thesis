@@ -1,0 +1,20 @@
+- Motion-Trace aktueller Stand / Finalisierung
+- Motion-Trace-Backend / Datenspeicherung: Verfügbarkeit und Zugriff Server, Anforderungen an die Datenbank ???
+
+- Fortschritt der Datensammlung
+- Neue Probleme in Daten: Stottern, Verrutschen
+
+- Erweiterung der Daten um Bewegungsdaten
+- Versuch der Visualisierung der Bewegungsdaten nach Fahrzeugklasse
+
+- Map-Matching: Modus-Problem -> Vorklassifikation
+- Aber: Aktuell vermutlich unsauber, da Abhängigkeiten zwischen Test- und Trainingsdaten bestehen (methodischer Fehler). Entsprechend muss das ganze nochmal angepasst werden.
+- Map-Matching mit Klassifikation: Erprobung, aber vielversprechend
+
+- Außerdem Beschäftigung mit der Klassifikation von Sequenziellen Daten: Rekurrente Neuronale Netze sollten tatsächlich am besten auf dieses Problem passen. -> Entsprechend beschäftige ich mich aktuell theoretisch damit. 
+  Erste Erprobung vermutlich noch vor der nächsten Abstimmung (sobald methodische Mängel der bisherigen Umsetzung beseitigt wurden).
+
+- Angedachte Gliederung der Arbeit.
+
+Frage bzgl. DataScience-Master: Muss ich wirklich ein Englisch-Zertifikat vorlegen (trotz Abitur und Bc. an der HS-Coburg der auch Englisch B2 umfasst)
+Frage bzgl. Hiwi-Stelle: Wie wird Urlaub gekennzeichnet?
