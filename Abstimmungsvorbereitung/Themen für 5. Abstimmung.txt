@@ -1,0 +1,23 @@
+- Fortschritt der Datensammlung -> siehe PyCharm; 28,5 Stunden; 673km
+
+- Vorklassifikation für Map-Matching war das letzte mal schon umgesetzt, allerdings noch mit großem methodsischem Mängel: Abhängigkeit zwischen Trainings- und Testdaten
+- Nun: Aus gesammelten Aufnahmen, werden verschiedene Datensätze erstellt, die jeweils stratifiziert in Trainings- und Tesdaten (0.25) aufgeteilt werden
+	* Die Aufnahmen in den Datensätzen unterscheiden sich in Länge (1min - 4min) und Sampling-Periode (1s und 2s)
+	* Alle Datensätze werden um Bewegungsdaten erweitert
+	* Für die Sampling-Raten 1s und 2s werden jeweils drei Klassifikatoren per Gittersuche trainiert und optimiert -> 2s Intervall führt zu besseren Ergebnissen -> siehe Visualisierungen in PyCharm
+
+- Map-Matching wurde optimiert (Klasse Map-Matcher) und führt zu guten Ergebnissen insofern Modus richtig erkannt wurde und ein Match möglich ist; Kontrolle ist jedoch schwierig. 
+- Nach Map-Matching werden Bewegungsdaten neu berechnet 
+
+- Erste Erprobung RNNs mit LSTM-Zellen auf verschiedenen Datensätzen:
+	* mit Aggregation (10s): 1s_2min -> Vec. & Seq.
+	* ohne Aggregation: 1s_2min -> Vec. & Seq.; 1s_2min_matched -> Vec. & Seq.; 2s_2min -> Vec. (best) & Seq.
+
+
+- Fortschritt Arbeit: 25 Seiten beschrieben (inkl. Abbildungen und Whitespace); Theoretische Grundlagen umfassen aktuell 18 Seiten sind aber noch nicht ganz abgeschlossen.
+- Nummern-Stil in Ordnung? "vgl."?
+
+- Bachelorseminar ?: 10min aktueller Stand, Idee, Zielsetzung, Probleme, Forschungsfragen, technischer Hintergrund und Kontext und Methodik, aktuelle Ergebnisse.
+
+- Motion-Trace: kein Update
+- Motion-Trace-Backend / Datenspeicherung: Verfügbarkeit und Zugriff Server, Anforderungen an die Datenbank ???
